@@ -2,9 +2,9 @@
 ---
 ## INDEX
 
-### [Firebase](#irebase)
+[Firebase](#firebase)
 
-### [gradle setting](#gradle-setting)
+[gradle setting](#gradle-setting)
 
 ---
 
