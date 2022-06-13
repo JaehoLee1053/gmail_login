@@ -57,11 +57,19 @@ SHA-256:
 Valid until: Sunday, December 18, 2050
 ```
 
+8. google-services.json 다운로드
 ![image](https://user-images.githubusercontent.com/67194430/173396065-4531367d-9d08-4141-b95b-329099683ffd.png)
 
+9. Project 구성으로 바꿔서 app 아래에 삽입
 ![image](https://user-images.githubusercontent.com/67194430/173396106-9bb99f74-7722-4312-8ef1-59235aadd892.png)
 
+10. Firebase 사용을 위한 SDK 추가
 ![image](https://user-images.githubusercontent.com/67194430/173396147-fc63db4b-be4b-4b8d-838d-81227b9c73d4.png)
+
+![image](https://user-images.githubusercontent.com/67194430/173396458-4a54a77e-a50d-471b-a352-549022606a0b.png)
+
+11. AndroidStudio Bumblebee 버전 이후로는 아래와 같은 구성으로 등록
+![image](https://user-images.githubusercontent.com/67194430/173396501-8c5f961e-cb11-4d97-987c-6ad071ec60a2.png)
 
 ![image](https://user-images.githubusercontent.com/67194430/173396249-ec624e25-804d-46ed-919f-9f5754327343.png)
 
