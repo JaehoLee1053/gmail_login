@@ -30,8 +30,7 @@ Google 애널리틱스 사용 설정
 Android 패키지 이름과 Google 애널리틱스 이용을 위한 SHA-1 입력
 ![image](https://user-images.githubusercontent.com/67194430/173385280-58d4e0d1-d75e-40f4-86bc-ca261f7415f2.png)
 
-Android 패키지 이름은 Activity code의 상단에서 확인 가능
-#
+Android 패키지 이름은 Activity code의 상단에서 확인 가능  
 ![image](https://user-images.githubusercontent.com/67194430/173385338-9e0e1160-876e-43fe-8afd-a98eaa4834e9.png)
 
 SHA-1은 terminal에서 아래 command 입력
