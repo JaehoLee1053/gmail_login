@@ -36,10 +36,10 @@
 7. Android 패키지 이름과 Google 애널리틱스 이용을 위한 SHA-1 입력
 ![image](https://user-images.githubusercontent.com/67194430/173385280-58d4e0d1-d75e-40f4-86bc-ca261f7415f2.png)
 
-7-2. Android 패키지 이름은 Activity code의 상단에서 확인 가능  
+7-1. Android 패키지 이름은 Activity code의 상단에서 확인 가능  
 ![image](https://user-images.githubusercontent.com/67194430/173385338-9e0e1160-876e-43fe-8afd-a98eaa4834e9.png)
 
-7-1. SHA-1은 terminal에서 아래 command 입력
+7-2. SHA-1은 terminal에서 아래 command 입력
 ```
 ./gradlew signinReport
 ```
@@ -56,6 +56,18 @@ SHA1:
 SHA-256: 
 Valid until: Sunday, December 18, 2050
 ```
+
+![image](https://user-images.githubusercontent.com/67194430/173396065-4531367d-9d08-4141-b95b-329099683ffd.png)
+
+![image](https://user-images.githubusercontent.com/67194430/173396106-9bb99f74-7722-4312-8ef1-59235aadd892.png)
+
+![image](https://user-images.githubusercontent.com/67194430/173396147-fc63db4b-be4b-4b8d-838d-81227b9c73d4.png)
+
+![image](https://user-images.githubusercontent.com/67194430/173396249-ec624e25-804d-46ed-919f-9f5754327343.png)
+
+![image](https://user-images.githubusercontent.com/67194430/173396304-1cc43014-c349-4dc2-9460-e9d5cba875a1.png)
+
+
 
 ---
 
