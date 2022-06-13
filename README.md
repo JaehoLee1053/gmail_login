@@ -8,7 +8,7 @@
 
 ---
 
-## Firebase
+# ## Firebase
 
 
 - 파이어베이스 프로젝트 생성
@@ -59,4 +59,4 @@ Valid until: Sunday, December 18, 2050
 
 ---
 
-## gradle setting
+# ## gradle setting
