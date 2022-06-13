@@ -2,10 +2,13 @@
 ---
 ## INDEX
 
-[파이어베이스](#파이어베이스)
+[Firebase](#Firebase)
+
+[gradle setting](#gradle-setting)
+
 ---
 
-## #파이어베이스
+## Firebase
 
 
 - 파이어베이스 프로젝트 생성
@@ -53,3 +56,6 @@ SHA1:
 SHA-256: 
 Valid until: Sunday, December 18, 2050
 ```
+
+
+## gradle setting
