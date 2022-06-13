@@ -2,9 +2,9 @@
 ---
 ## INDEX
 
-### [Firebase](##Firebase)
+### [Firebase](#Firebase)
 
-### [gradle setting](##gradle-setting)
+### [gradle setting](#gradle-setting)
 
 ---
 
@@ -57,5 +57,6 @@ SHA-256:
 Valid until: Sunday, December 18, 2050
 ```
 
+---
 
 ## gradle setting
